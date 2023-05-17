@@ -9,7 +9,7 @@
   font-size: x-large;
 }
 .buttons {
-  background-color: green;
+  background-color: rgb(228, 76, 21);
   border-style: hidden;
   border-radius: 5px;
   box-shadow: 3px 3px 5px gray;
@@ -17,10 +17,10 @@
   font-size: x-large;
 }
 body {
-  background-color: rgb(233, 227, 227);
+  background-color: rgb(18, 17, 17);
 }
 .buttons:hover {
   background-color: white;
-  color: green;
+  color: rgb(119, 128, 0);
   font-weight: bolder;
 }
